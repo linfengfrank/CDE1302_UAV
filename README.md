@@ -1,6 +1,6 @@
 # Quadrotor Simulation for EE4314
 
-This repository contains a simulation framework for a small quadrotor, developed for the **EE4314** course.  
+This repository contains a simulation framework for a small quadrotor, developed for the **CDE1302** course.  
 
 ## Components
 1. **Dynamic Model** – models the quadrotor’s physical dynamics  
