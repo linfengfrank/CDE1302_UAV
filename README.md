@@ -26,7 +26,8 @@ This demo generates a **constant-speed circular trajectory** in the NED frame an
 ## Dynamic Model (Optional Reference)
 
 The dynamic model is formulated based on the NUSWARM drone platform, following the methods outlined in the lecture notes.  
-A detailed description of the model parameters is provided in the table below.
+
+<!-- A detailed description of the model parameters is provided in the table below.
 
 # Specifications of NUSWARM Drone  
 
@@ -47,6 +48,8 @@ A detailed description of the model parameters is provided in the table below.
 | TWR             | —       | 5.0040            | Maximum thrust-to-weight ratio $=4\timesτ_{max}/(m·g)$ |
 | THR_HOVER       | —       | 0.331            | Throttle at hovering condition   |
 ---
+-->
+
 <!--| $ϕ̇_{max}$       | rad/s   | 3219.9            | Maximum motor speed |
 | $τ_{max}$       | N       | 3.0382            | Maximum thrust   |
 | $Q_{max}$       | N·m     | 0.0248            | Maximum torque   | -->
