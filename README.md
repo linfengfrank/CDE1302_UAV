@@ -1,4 +1,4 @@
-# Quadrotor Simulation for EE4314
+# Quadrotor Simulation
 
 This repository contains a simulation framework for a small quadrotor, developed for the **CDE1302** course.  
 
