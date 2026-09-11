@@ -107,7 +107,7 @@ plot(sim_pose.t, sim_pose.y); grid on;
 xlabel('time (s)'); ylabel('y (m)');
 
 subplot(2,2,3);
-plot(sim_pose.t, sim_pose.y); grid on; 
+plot(sim_pose.t, sim_pose.z); grid on; 
 xlabel('time (s)'); ylabel('z (m)');
 
 subplot(2,2,4);
